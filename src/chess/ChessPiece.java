@@ -16,6 +16,9 @@ public abstract class ChessPiece extends Piece {
 		return color;
 	}
 	
+	public ChessPosition getChessPosition () {
+		return ChessPosition.fromPosition(position);
+	}
 	protected boolean isThereOppnoentPiece (Position position) {
 		ChessPiece pc = (ChessPiece) getBoard().piece(position);
 		return pc != null & pc.getColor() != color;
