@@ -12,11 +12,12 @@ Meu primeiro projeto em java, onde fixei o conceito de herança.
 
 
 ## Para jogar: 
-![image](https://user-images.githubusercontent.com/69250714/166494895-94782b82-22d8-4ed7-9b84-9641704a5b26.png)
 * selecione a coluna (letra) e a linha (numero) que deseja usar. Exemplo
 ![image](https://user-images.githubusercontent.com/69250714/166493432-5cf9b63f-0581-4876-b14f-3b712ada651d.png)
 * depois selecione um dos movimentos possiveis (coordenadas pintadas de azul). Exemplo: 
 ![image](https://user-images.githubusercontent.com/69250714/166494004-383213d0-0ab0-4d26-bbc0-92748f8f7535.png)
+## Imagens:
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/69250714/166499206-b3982bcf-9b6f-4db7-a046-50f30fb220aa.gif)
 
 
 
