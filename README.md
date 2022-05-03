@@ -2,7 +2,7 @@
 Meu primeiro projeto em java, onde consegui ter mais concienca de herança, para programação orientada a objetos.
 ## Requisitos:
 * GitBash
-* Java SE (Usado na versão 12.0.2)
+* Java SE (Usado na versão 11.0.4)
 * Baixar a pasta bin: https://drive.google.com/drive/folders/1TCubYf3-vQ5rnFb7bqtYqr4FRN_D3ri5?usp=sharing
 ## Como usar:
 1. Coloque a pasta bin dentro da pasta do projeto
